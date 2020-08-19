@@ -1,4 +1,0 @@
-server:
- servlet:
-   contextpath: /reporting-web/v1/
-   port: 8080

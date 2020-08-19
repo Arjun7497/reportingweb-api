@@ -8,5 +8,35 @@
     "name": "server.servlet.port",
     "type": "java.lang.String",
     "description": "A description for 'server.servlet.port'"
+  },
+  {
+    "name": "oracle.password",
+    "type": "java.lang.String",
+    "description": "A description for 'oracle.password'"
+  },
+  {
+    "name": "oracle.username",
+    "type": "java.lang.String",
+    "description": "A description for 'oracle.username'"
+  },
+  {
+    "name": "oracle.url",
+    "type": "java.lang.String",
+    "description": "A description for 'oracle.url'"
+  },
+  {
+    "name": "spring.datasource.driver.class",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.driver.class'"
+  },
+  {
+    "name": "o.uclerl",
+    "type": "java.lang.String",
+    "description": "A description for 'o.uclerl'"
+  },
+  {
+    "name": "spring.datasourcerl",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasourcerl'"
   }
 ]}
